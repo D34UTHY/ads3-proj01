@@ -1,0 +1,15 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --host=0.0.0.0 --port=80"
+  },
+  "author": "Matheus SantAna",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
