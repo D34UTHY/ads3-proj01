@@ -12,7 +12,7 @@ Projeto básico para estudos de web mobile turma ADS3 Unorte.
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/d34uthy/ads3-proj01.git
+   git clone https://github.com/D34UTHY/ads3-proj01.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
